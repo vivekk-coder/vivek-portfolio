@@ -32,6 +32,10 @@ Built using **HTML, CSS**.
 ![Mobile Preview](assets/screenshot4.png)
 
 
+## Live Preview
+
+🔗 [View Live Portfolio](https://vivek-portfolio01.netlify.app/)
+
 
 
 ## 📬 Contact
