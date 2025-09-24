@@ -110,7 +110,7 @@ html{
 main{
     /* display: flex;
     flex-direction: column; */
-    height: 235vh;
+    min-height: 235vh;
     /* margin-top: 80px; */
      /* scroll-margin-top: 80px; */
     /* background: linear-gradient(-490deg, #031540 60%, #fff 40%); */
