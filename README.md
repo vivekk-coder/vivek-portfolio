@@ -5,7 +5,7 @@ Built using **HTML, CSS**.
 💡 Note: This portfolio is fully responsive and works seamlessly on mobile devices.
 
 ## 🚀 Live Demo
-👉 [View Portfolio](https://your-username.github.io/vivek-portfolio/)
+👉 [View Portfolio](https://vivek-portfolio01.netlify.app/)
 
 ## 🛠️ Tech Stack
 - HTML5
